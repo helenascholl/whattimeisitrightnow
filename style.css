@@ -1,0 +1,30 @@
+* {
+    font-family: 'Jost', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2em;
+    margin-top: 2.5em;
+    text-transform: uppercase;
+}
+
+span {
+    font-size: 4em;
+}
+
+.number {
+    background-color: #666666;
+    color: white;
+    border-radius: 0.2em;
+    padding: 0.1em;
+}
