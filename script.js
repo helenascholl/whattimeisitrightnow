@@ -1,4 +1,7 @@
-addEventListener('load', () => setInterval(showTime, 100));
+addEventListener('load', () => {
+    showTime();
+    setInterval(showTime, 100);
+});
 
 function showTime() {
     let date = new Date();
