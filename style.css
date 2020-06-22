@@ -29,5 +29,6 @@ span {
     border-radius: 0.2em;
     padding: 0.1em;
     display: inline-block;
-    width: 1.3em;
+    width: 1.5em;
+    text-align: center;
 }
